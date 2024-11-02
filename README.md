@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayushi Joshi
-- 👀 I’m interested in Web development and Data Science
+- 👀 I’m interested in Backend development and Distributed systems
 - 🌱 I’m currently learning Machine Learning
 
 <!---
